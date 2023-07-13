@@ -30,7 +30,41 @@ These three experiments–TF-IDF, topic modeling, and volume clustering–did no
 
 Dr. Seretha Williams contributed a keyword list developed as part of an earlier digital project, which searched for instances of Afrofuturism in the digital corpus of the History of Black Writing’s database housed in PhiloLogic at University of Chicago. The keyword list, a compilation of search terms for speculative fiction and words that appeared in pre-identified Black Fantastic texts, provided a starting point for identifying Black Fantastic texts. The keyword searches in the HathiTrust corpus helped to identify texts that could be examples of the Black Fantastic. Using TF-IDF analysis, the project investigators developed a list of frequently occurring words. One of the significant findings was the recurrence of the word “time.” The investigators then built a list of words associated with time to determine whether analysis of time words could be a predictor of Black Fantastic texts. Although the analysis of time and time-related words was not a reliable predictor of Black Fantastic texts, the results indicated that many texts written by Black writers referenced time and time-related words with high frequency. 
 
+| BBIP Keywords  |  |  | 
+| :---------| :---------- | :----------------- | 
+| Alien(s)     | Force Field   | Psychic       | 
+| Androids   | Future(s), Futurelessness   | Ray gun    | 
+| Angel(s)  | Galaxy(ies)(ial)  | Robot(s)          |   
+| Beam(ed) (s)    | Genes         | Root work         | 
+| Blaster (s), Blasted  | Ghost(s) | Shifters | 
+| Clone(d)(s)  | Goopher         | Spacecraft   | 
+| Comet(s)     | Healer(s)  | Spaceman       | 
+| Computer      | Hoodoo/Voodoo     | Spaceship(s)   | 
+| Conjure(d)(s), Conjuring(s)  | Mad Scientist   | Star(s) |
+| Conjuror(s)    | Magic, Magical(ly)  | Starship  | 
+| Constellation(s)  | Metaphysical  | Teleport(ed)(s), Teleportation | 
+| Cryogenics | Mutant(s), Mutation(s), Mutating (ed) | Telepath(s), Telepathy (ic)  | 
+| Death Ray       | Orbit(s)(ed)(ing)    |   Universe(s)   | 
+| Dystopia         | Outer Space    |  Vampire   | 
+| Elf, Elves  | Pantheon    | Witch(es), witchcraft, witchery  | 
+| Fairy (ies)  | Pirates         |           | 
 
+Time-related search words (To review the results, go to [BF_KW_time](https://docs.google.com/spreadsheets/d/159FITssl0ouX9O0lIuzcpIT4eWDt6jzZtT8H26z7PBU/edit?usp=sharing))
+
+
+| BF KW Titles "Time"  |  |  
+| :---------| :---------- | 
+| ago     | Force Field   | 
+| ancient   | Future(s), Futurelessness   | 
+| Angel(s)  | Galaxy(ies)(ial)  |   
+| Beam(ed) (s)    | Genes         | 
+| Blaster (s), Blasted  | 
+| Clone(d)(s)  | Goopher         | 
+| Comet(s)     | Healer(s)  | 
+| Computer      | Hoodoo/Voodoo     | 
+| Conjure(d)(s), Conjuring(s)  | Mad Scientist   | 
+| Conjuror(s)    | Magic, Magical(ly)  | 
+ 
 
 ### BF Volumes in HathiTrust
 
