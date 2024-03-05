@@ -1,10 +1,10 @@
 # Final Report: he Black Fantastic - Curated Vocabularies, Artifact Analysis, and Identification
-By Seretha Williams, Clarissa West-White, Ryan Dubnicek, and Isabella Magni
+Clarissa West-White, Seretha Williams, Ryan Dubnicek, and Isabella Magni[^1]
 
 ## Introduction and Context
-The term “Afrofuturism” has often been used to describe works in which artists and creators of the African Diaspora engage with intersections of race and technology. A less contested term coined by Richard Iton, "the Black Fantastic," better reflects transcultural iterations of world-building (Iton, 2008). While there is an active scholarly community studying the Black Fantastic[^1], the use of computational methods in this study is inhibited by a lack of digital collections of Black Fantastic literature. 
+The term “Afrofuturism” has often been used to describe works in which artists and creators of the African Diaspora engage with intersections of race and technology. A less contested term coined by Richard Iton, "the Black Fantastic," better reflects transcultural iterations of world-building (Iton, 2008). While there is an active scholarly community studying the Black Fantastic[^2], the use of computational methods in this study is inhibited by a lack of digital collections of Black Fantastic literature. 
 
-The rise of digital libraries has led to new studies and insights into forms and histories of literary genres (Schöch, 2017; Underwood, 2016; Gittel, 2021; Wilkens, 2016), before genre-specific texts can be studied algorithmically, they must first be identified amidst the massive holdings of digital libraries, such as those of the HathiTrust. The first phase of this project therefore consisted in using text similarity methods to uncover Black Fantastic texts that may be hidden in the HathiTrust digital collections thanks to incomplete metadata or to cataloging practices not conducive to fine-grained genre identification. Once these volumes were identified (see [Introduction](https://htrc.github.io/scwared-black-fantastic/introduction.html) for more details), we began the analysis phase. One of the goals was to identify potential overlaps between the black fantastic volumes identified in HathiTrust, and a dataset of Mary McLeod Bethune’s digitized documents, to support the claim that Mary McLeod Bethune is one of the early twentieth century Black Fantastic thinkers and writers[^2].  
+The rise of digital libraries has led to new studies and insights into forms and histories of literary genres (Schöch, 2017; Underwood, 2016; Gittel, 2021; Wilkens, 2016), before genre-specific texts can be studied algorithmically, they must first be identified amidst the massive holdings of digital libraries, such as those of the HathiTrust. The first phase of this project therefore consisted in using text similarity methods to uncover Black Fantastic texts that may be hidden in the HathiTrust digital collections thanks to incomplete metadata or to cataloging practices not conducive to fine-grained genre identification. Once these volumes were identified (see [Introduction](https://htrc.github.io/scwared-black-fantastic/introduction.html) for more details), we began the analysis phase. One of the goals was to identify potential overlaps between the black fantastic volumes identified in HathiTrust, and a dataset of Mary McLeod Bethune’s digitized documents, to support the claim that Mary McLeod Bethune is one of the early twentieth century Black Fantastic thinkers and writers[^3].  
 
 
 
@@ -94,7 +94,7 @@ Iton, Richard. 2008. _In Search of the Black Fantastic. In: Politics and Popular
 
 Magni, Isabella, Glen Layne-Worthey, John A. Walsh, J. Stephen Downie, Maryemma Graham, Janet Swatscheno, and Ryan Dubnicek. “Report on HathiTrust Gap Filling.” HathiTrust Research Center, accessed February 26, 2024. [https://htrc.github.io/scwared/gap-filling.html](https://htrc.github.io/scwared/gap-filling.html). 
 
-“Mary McLeod Bethune | The Black Fantastic.” Accessed February 22, 2024. [https://sites.google.com/cookman.edu/mmbtheblackfantastic/home](https://sites.google.com/cookman.edu/mmbtheblackfantastic/home).
+“Mary McLeod Bethune: The Black Fantastic.” Accessed February 22, 2024. [https://sites.google.com/cookman.edu/mmbtheblackfantastic/home](https://sites.google.com/cookman.edu/mmbtheblackfantastic/home).
 
 Parulian, Nikolaus Nova, Ryan Dubnicek, Glen Worthey, Daniel J. Evans, John A. Walsh, and J. Stephen Downie. “Uncovering Black Fantastic: Piloting A Word Feature Analysis and Machine Learning Approach for Genre Classification.” _Proceedings of the Association for Information Science and Technology_ 59, no. 1 (2022): 242–50. [https://doi.org/10.1002/pra2.620](https://doi.org/10.1002/pra2.620).
 
@@ -109,6 +109,8 @@ Wilkens, Matthew. “Genre, Computation, and the Varieties of Twentieth-Century 
 Williams, Seretha. “Black to the Future. 2023 _Black Ink Book Festival_ Virtual Kickoff Event (November 17, 2022).” [https://www.youtube.com/watch?v=QgpI_boeYWc](https://www.youtube.com/watch?v=QgpI_boeYWc). 
 
 -----
-[^1]: “About This Journal | Third Stone | Rochester Institute of Technology.” Accessed December 10, 2021. [https://scholarworks.rit.edu/thirdstone/about.html](https://scholarworks.rit.edu/thirdstone/about.html). For more about Afrofuturism and the Black Fantastic see Dr. William’s public speech “Black to the Future—2023 Black Ink Book Festival Virtual Kickoff Event (November 17, 2022)”, available at [https://www.youtube.com/watch?v=QgpI_boeYWc](https://www.youtube.com/watch?v=QgpI_boeYWc).
+[^1]: Clarissa West-White (Bethune-Cookman University, whitec@cookman.edu); Seretha Williams (Augusta University, seretha.williams@augusta.edu); Ryan Dubnicek (HathiTrust Research Center, University of Illinois Urbana-Champaign); Isabella Magni (University of Sheffield, i.magni@sheffield.ac.uk).
 
-[^2]: For further information regarding MMB’s writings and her links to the Black Fantastic see: [Mary McLeod Bethune](https://sites.google.com/cookman.edu/mmbtheblackfantastic/home): The Black Fantastic site.
+[^2]: “About This Journal. Third Stone. Rochester Institute of Technology.” Accessed December 10, 2021. [https://scholarworks.rit.edu/thirdstone/about.html](https://scholarworks.rit.edu/thirdstone/about.html). For more about Afrofuturism and the Black Fantastic see Dr. William’s public speech “Black to the Future—2023 Black Ink Book Festival Virtual Kickoff Event (November 17, 2022)”, available at [https://www.youtube.com/watch?v=QgpI_boeYWc](https://www.youtube.com/watch?v=QgpI_boeYWc).
+
+[^3]: For further information regarding MMB’s writings and her links to the Black Fantastic see: [Mary McLeod Bethune](https://sites.google.com/cookman.edu/mmbtheblackfantastic/home): The Black Fantastic site.

@@ -1,4 +1,5 @@
 # The Black Fantastic: Curated Vocabularies, Artifact Analysis, and Identification
+Clarissa West-White and Seretha Williams[^1]
 
 An aim of this project is to identify volumes in HathiTrust Digital Library (HTDL) that can be categorized as belonging to the genre of Black Fantastic, an umbrella term we use to be inclusive of the variations of speculative writing produced by writers who identify as Black people. We define the Black Fantastic as the cultural production of African Diasporic artists and creators who engage with the intersections of race and technology in their work, and propose that the Black Fantastic genre includes Afrofuturism, Afro-surrealism, Black science fiction, Black horror, and even historical nonfiction documents. Early examples of the Black Fantastic mode include Martin Delaney’s _Blake, or the Huts of America_; Sutton Grigg’s _Imperium in Imperio_; Charles W. Chesnutt’s _The Conjure Woman_; W.E.B. DuBois’ “The Comet;” Pauline Hopkins’ _Of One Blood_; and George Schuyler’s _Black No More_. In these texts, African American authors
 
@@ -117,3 +118,5 @@ This project proposes that the Black Fantastic is not limited to fiction. Instea
 - Can the workset be used to expand topic searches within Black fiction?
 - Can the workset be used to build out a keyword list that aids in identifying texts written by Black writers?
 
+-----
+[^1]: Clarissa West-White (Bethune-Cookman University, whitec@cookman.edu); Seretha Williams (Augusta University, seretha.williams@augusta.edu).
