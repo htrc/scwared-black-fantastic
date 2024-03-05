@@ -109,5 +109,6 @@ Wilkens, Matthew. “Genre, Computation, and the Varieties of Twentieth-Century 
 Williams, Seretha. “Black to the Future. 2023 _Black Ink Book Festival_ Virtual Kickoff Event (November 17, 2022).” [https://www.youtube.com/watch?v=QgpI_boeYWc](https://www.youtube.com/watch?v=QgpI_boeYWc). 
 
 -----
-[^1]:  “About This Journal | Third Stone | Rochester Institute of Technology.” Accessed December 10, 2021. [https://scholarworks.rit.edu/thirdstone/about.html](https://scholarworks.rit.edu/thirdstone/about.html). For more about Afrofuturism and the Black Fantastic see Dr. William’s public speech “Black to the Future—2023 Black Ink Book Festival Virtual Kickoff Event (November 17, 2022)”, available at [https://www.youtube.com/watch?v=QgpI_boeYWc](https://www.youtube.com/watch?v=QgpI_boeYWc). 
-[^2]:  For further information regarding MMB’s writings and her links to the Black Fantastic see: [Mary McLeod Bethune](https://sites.google.com/cookman.edu/mmbtheblackfantastic/home) | The Black Fantastic site.
+[^1]: “About This Journal | Third Stone | Rochester Institute of Technology.” Accessed December 10, 2021. [https://scholarworks.rit.edu/thirdstone/about.html](https://scholarworks.rit.edu/thirdstone/about.html). For more about Afrofuturism and the Black Fantastic see Dr. William’s public speech “Black to the Future—2023 Black Ink Book Festival Virtual Kickoff Event (November 17, 2022)”, available at [https://www.youtube.com/watch?v=QgpI_boeYWc](https://www.youtube.com/watch?v=QgpI_boeYWc).
+
+[^2]: For further information regarding MMB’s writings and her links to the Black Fantastic see: [Mary McLeod Bethune](https://sites.google.com/cookman.edu/mmbtheblackfantastic/home): The Black Fantastic site.
