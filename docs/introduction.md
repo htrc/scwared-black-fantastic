@@ -119,4 +119,4 @@ This project proposes that the Black Fantastic is not limited to fiction. Instea
 - Can the workset be used to build out a keyword list that aids in identifying texts written by Black writers?
 
 -----
-[^1]: Clarissa West-White (Bethune-Cookman University, whitec@cookman.edu); Seretha Williams (Augusta University, seretha.williams@augusta.edu).
+[^1]: Clarissa West-White (Bethune-Cookman University, [whitec@cookman.edu](whitec@cookman.edu)); Seretha Williams (Augusta University, [seretha.williams@augusta.edu](seretha.williams@augusta.edu)).

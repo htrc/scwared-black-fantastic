@@ -109,7 +109,7 @@ Wilkens, Matthew. “Genre, Computation, and the Varieties of Twentieth-Century 
 Williams, Seretha. “Black to the Future. 2023 _Black Ink Book Festival_ Virtual Kickoff Event (November 17, 2022).” [https://www.youtube.com/watch?v=QgpI_boeYWc](https://www.youtube.com/watch?v=QgpI_boeYWc). 
 
 -----
-[^1]: Clarissa West-White (Bethune-Cookman University, whitec@cookman.edu); Seretha Williams (Augusta University, seretha.williams@augusta.edu); Ryan Dubnicek (HathiTrust Research Center, University of Illinois Urbana-Champaign); Isabella Magni (University of Sheffield, i.magni@sheffield.ac.uk).
+[^1]: Clarissa West-White (Bethune-Cookman University, [whitec@cookman.edu](whitec@cookman.edu)); Seretha Williams (Augusta University, [seretha.williams@augusta.edu](seretha.williams@augusta.edu)); Ryan Dubnicek (HathiTrust Research Center, University of Illinois Urbana-Champaign); Isabella Magni (University of Sheffield, [i.magni@sheffield.ac.uk](i.magni@sheffield.ac.uk)).
 
 [^2]: “About This Journal. Third Stone. Rochester Institute of Technology.” Accessed December 10, 2021. [https://scholarworks.rit.edu/thirdstone/about.html](https://scholarworks.rit.edu/thirdstone/about.html). For more about Afrofuturism and the Black Fantastic see Dr. William’s public speech “Black to the Future—2023 Black Ink Book Festival Virtual Kickoff Event (November 17, 2022)”, available at [https://www.youtube.com/watch?v=QgpI_boeYWc](https://www.youtube.com/watch?v=QgpI_boeYWc).
 
