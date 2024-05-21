@@ -1,4 +1,4 @@
-# Final Report: he Black Fantastic - Curated Vocabularies, Artifact Analysis, and Identification
+# Final Report: The Black Fantastic - Curated Vocabularies, Artifact Analysis, and Identification
 Clarissa West-White, Seretha Williams, Ryan Dubnicek, and Isabella Magni[^1]
 
 ## Introduction and Context
